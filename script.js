@@ -1,0 +1,1 @@
+document.getElementById('counter-display').innerText=12
